@@ -51,7 +51,7 @@ function showLit(){
 			innerAngle >= 6.22 || innerAngle <= 0.78){
 				$(".fade").animate({opacity: '0'});
     
- 			 	setTimeout("document.location.href='https://luffy.ee.ncku.edu.tw/~E24056491/jump.html'", 2000);
+ 			 	setTimeout("document.location.href='./jump.html'", 2000);
 			}
 			isAfterStopRotate = false;
 			return;
